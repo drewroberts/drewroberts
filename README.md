@@ -6,4 +6,6 @@
 
 - 🔭 I’m currently working primarily on Laravel projects
 - 🌱 I’m currently learning more javascript. I use React & Vue through the Laravel PHP framework
+- 💰 Stacking BTC & ETH along with NFTs
+- 💸 Solidity Developer
 - 📫 How to reach me: github@drewroberts.com
